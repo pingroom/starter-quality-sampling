@@ -1,0 +1,10 @@
+node_modules/
+/.env
+/.env.*
+!/.env.example
+/.pingroom/
+/.sampling/
+/config.json
+/audit.json
+*.log
+.DS_Store

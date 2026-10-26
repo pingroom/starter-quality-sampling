@@ -1,0 +1,48 @@
+{
+  "auditId": "reading-cards-001",
+  "title": "Reading card quality audit",
+  "criterion": "Conforming means the card includes a title and a reading-level label.",
+  "sampleSize": 3,
+  "items": [
+    {
+      "id": "card-01",
+      "label": "Reading card 1",
+      "details": "Inspect the local reading-card record with ID card-01."
+    },
+    {
+      "id": "card-02",
+      "label": "Reading card 2",
+      "details": "Inspect the local reading-card record with ID card-02."
+    },
+    {
+      "id": "card-03",
+      "label": "Reading card 3",
+      "details": "Inspect the local reading-card record with ID card-03."
+    },
+    {
+      "id": "card-04",
+      "label": "Reading card 4",
+      "details": "Inspect the local reading-card record with ID card-04."
+    },
+    {
+      "id": "card-05",
+      "label": "Reading card 5",
+      "details": "Inspect the local reading-card record with ID card-05."
+    },
+    {
+      "id": "card-06",
+      "label": "Reading card 6",
+      "details": "Inspect the local reading-card record with ID card-06."
+    },
+    {
+      "id": "card-07",
+      "label": "Reading card 7",
+      "details": "Inspect the local reading-card record with ID card-07."
+    },
+    {
+      "id": "card-08",
+      "label": "Reading card 8",
+      "details": "Inspect the local reading-card record with ID card-08."
+    }
+  ]
+}
