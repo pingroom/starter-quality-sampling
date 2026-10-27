@@ -43,9 +43,10 @@ size must be fixed before inspection; the starter does not choose it for a targe
 precision or acceptance rule.
 
 Install [PingRoom](https://pingroom.io/i), approve the pairing link, and choose a
-**standard private room** containing the inspector. Grant `pingroom:rooms:read`,
-`pingroom:questions:ask`, and access to that room. Normal permissions and quotas
-apply. The inspector may be the connecting account or another member.
+**standard private room** containing the inspector. Review the server-defined
+agent-feature grant shown during pairing and delegate access to that room.
+Normal permissions and quotas apply. The inspector may be the connecting account
+or another member.
 
 `inspect` lists member UUIDs and lookup names. Verify the intended person in the
 app and put their exact UUID and a local label in `config.json`. Names alone do
